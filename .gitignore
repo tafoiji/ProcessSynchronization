@@ -1,0 +1,7 @@
+ConsoleApplication1/x64/
+ConsoleApplication1/.vs/
+*.vcxproj
+*.vcxproj.*
+*.sln
+
+github_link.txt

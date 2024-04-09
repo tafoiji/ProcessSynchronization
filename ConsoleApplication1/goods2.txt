@@ -1,0 +1,8 @@
+apple 5                          
+bacon 25                          
+cidre 20                          
+beer 10                          
+vodka 30                          
+cigarettes 20                          
+chips 15                          
+cucumber 10                          
